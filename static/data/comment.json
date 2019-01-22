@@ -1,0 +1,56 @@
+{
+    "comment":[
+        {
+            "username":"社会王",
+            "addtime":"2019-1-7 15:40",
+            "content":"我少吃不贝贝大V定位是"
+        },
+        {
+            "username":"小 宁",
+            "addtime":"2019-1-7 15:39",
+            "content":"获取当前登录用户及其所关注用户的最新微博"
+        },
+        {
+            "username":"小 王",
+            "addtime":"2019-1-7 15:38",
+            "content":"获取@当前用户的最新微博"
+        },
+        {
+            "username":"校 长",
+            "addtime":"2019-1-7 15:35",
+            "content":""
+        },
+        {
+            "username":"老 师",
+            "addtime":"2019-1-7 15:20",
+            "content":"获取某条微博的评论列表"
+        }      
+    ],
+    "comments":[
+        {
+            "username":"老刘",
+            "addtime":"2019-1-7 15:15",
+            "content":"我少吃不贝贝大V定位是2233334"
+        },
+        {
+            "username":"小 张",
+            "addtime":"2019-1-7 15:11",
+            "content":"获取当前登录用户及其所关注用户的最新微博"
+        },
+        {
+            "username":"小 霞",
+            "addtime":"2019-1-7 15:09",
+            "content":"获取@当前用户的最新微博"
+        },
+        {
+            "username":"小 冷",
+            "addtime":"2019-1-7 15:05",
+            "content":""
+        },
+        {
+            "username":"老 师",
+            "addtime":"2019-1-7 15:01",
+            "content":"获取某条微博的评论列表"
+        }      
+    ]
+}

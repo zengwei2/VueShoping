@@ -1,0 +1,39 @@
+@media (min-width: 400px){
+    li.mui-table-view-cell.mui-media.mui-col-xs-4.mui-col-sm-3 {
+       width: 33.33333333%;
+    }
+}
+li.mui-table-view-cell.mui-media.mui-col-xs-4.mui-col-sm-3 a{
+    text-decoration: none
+}
+a:focus, a:hover {
+    color: #23527c;
+    /* text-decoration: underline; */
+    text-decoration: none;
+}
+.s label{
+    line-height: 11px;
+    font-weight: normal;
+}
+/* label.mint-button-text {
+    line-height: 10px;
+} */
+/* Search.vue */
+input.mint-searchbar-core {
+    height: 20px;
+    margin-bottom: 0px;
+    background-color: white;
+}
+
+/* Hconnect.vue */
+#connect .suggest .button label.mint-button-text {
+    font-weight: normal;
+    margin-bottom: 0px;
+}  
+
+/* Hwoeds.vue */
+#words .suggest .button label.mint-button-text {
+    font-weight: normal;
+    margin-bottom: 0px;
+} 
+
