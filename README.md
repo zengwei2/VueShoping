@@ -9,5 +9,8 @@
 # install dependencies
 cnpm install
 
+# 修改 config/index.js下面的host:'localhost'
+
+#cnpm run dev
 
 
